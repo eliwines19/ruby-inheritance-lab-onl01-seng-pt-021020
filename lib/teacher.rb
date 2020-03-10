@@ -9,4 +9,4 @@ class Teacher < User
     KNOWLEDGE[1]
   end
 
-end	end
+end	
